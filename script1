@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kaguya11/KaguHubRework/refs/heads/main/Scripts/MM2%20Farm%20Coins'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2-labs/autofarm/main/main"))()
